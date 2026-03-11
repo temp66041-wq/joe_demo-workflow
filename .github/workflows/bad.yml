@@ -9,4 +9,4 @@ jobs:
       - run: echo "Install"
       - run: echo "Test"
       - run: echo "Build"
-      - eun: echo "Deploy"
+      - run: echo "Deploy"
